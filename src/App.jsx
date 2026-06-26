@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Aside from './components/aside'
+import Aside from './components/Aside'
 import Panel from './components/Panel'
 import ProjectsSection from './components/ProjectsSection'
 import { projects } from './static/projects'
